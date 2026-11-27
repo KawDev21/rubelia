@@ -1,0 +1,23 @@
+{
+    "name": "Rubelia - Sistem Manajemen Bimbel",
+    "short_name": "Rubelia",
+    "description": "Portal Manajemen Akademik, Absensi & SPP Bimbingan Belajar Rubelia",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "background_color": "#F8FAFC",
+    "theme_color": "#0F172A",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+}
